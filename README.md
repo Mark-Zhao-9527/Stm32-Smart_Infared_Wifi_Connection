@@ -1,0 +1,2 @@
+# Stm32-Smart_Infared_Wifi_Connection
+WIFI网络与红外编码桥接器，旧的电器不能使用手机控制，现编写程序让旧电器也可以WIFI控制。
